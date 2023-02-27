@@ -15,7 +15,8 @@ The Jupiter Notebook with the code for this derivable is available under https:/
 
 The desired result is displayed below.
 
-|------------------|
+| Title and preview Summaries |
+|---------------------------------------------------------------------------------|
 |{'title': "NASA's MAVEN Observes Martian Light Show Caused by Major Solar Storm",|
 |  'preview': 'For the first time in its eight years orbiting Mars, NASA’s MAVEN mission witnessed two different types of ultraviolet aurorae simultaneously, the result of solar storms that began on Aug. 27.'},|
 |{'title': "NASA Prepares to Say 'Farewell' to InSight Spacecraft",|
