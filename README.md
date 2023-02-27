@@ -75,7 +75,9 @@ The data was analysed to answer the following questions:
 
 #### How many months exist on Mars? 
 
-From the year length analysis, around a Martian year has 674 days - 687 days. There are 24 martian months of 28 days. 
+With the data that is available checking the greatest month number available in the dataset, we obtain 12 months. month is the Martian month according to the instructions (The code used for this was "mars_data_df.month.max()")
+
+Querying in google it is stated that there are 24 martian months of 28 days (https://www.sciencedirect.com/science/article/abs/pii/S0032063397000330#:~:text=A%20common%20year%20would%20have,weeks%20of%207%20days%20each).). 
 
 #### How many Martian days' worth of data are there? 
 
@@ -86,9 +88,9 @@ In Earth times:
 3. There are 2021 days worth of data earth data
 
 
-The measurements range from With a martian year being around 674 days, 2021/674 ~ 3 Years of Martian data
+Taking into account that a martian year being is around 674 days (see results in section below), the total length of Martian data is close to 2021/674 ~ 3 Years of Martian data.
 
-The data was analysed to answer the following questions, and a data visualisation was created to support each answer: (30 points)
+
 
 #### Which month, on average, has the lowest temperature? The highest?
 
