@@ -97,8 +97,8 @@ The data was analysed to answer the following questions, and a data visualisatio
 
 On average, the third month has the coldest minimum temperature on Mars, and the eighth month is the warmest.
 
-month
-
+|Month|Temperature|
+| ---| ----|
 |1|-77.160920|
 |2|-79.932584|
 |3|-83.307292|
@@ -120,8 +120,8 @@ month
 
 Atmospheric pressure is, on average, lowest in the sixth month and highest in the ninth.
 
-month
-
+|Month|Pressure|
+| ---| ----|
 |9|913.305970|
 |2|889.455056|
 |10|887.312500|
@@ -157,13 +157,13 @@ The minimum values per year are below.
 
 Looking for the date with the minimum temperature in 2014 :
 
-||id|terrestrial_date|sol|ls|month|min_temp|pressure|Year|
+|id|terrestrial_date|sol|ls|month|min_temp|pressure|Year|
 | ---| ----| -------            |----  |----| -----| --------- | --------| 	
 |452|464|2014-02-03|532|84|3|-88.0|872.0|2014|
 
 Looking for the date with the minimum temperature in 2015 :
 
-||id|terrestrial_date|sol|ls|month|min_temp|pressure|Year|
+|id|terrestrial_date|sol|ls|month|min_temp|pressure|Year|
 | ---| ----| -------            |----  |----| -----| --------- | --------| 	
 |1093|1119|2015-12-09|1188|79|3|-90.0|881.0|2015|
 
