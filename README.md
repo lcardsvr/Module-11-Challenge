@@ -98,18 +98,19 @@ The data was analysed to answer the following questions, and a data visualisatio
 On average, the third month has the coldest minimum temperature on Mars, and the eighth month is the warmest.
 
 month
-1    -77.160920
-2    -79.932584
-3    -83.307292
-4    -82.747423
-5    -79.308725
-6    -75.299320
-7    -72.281690
-8    -68.382979
-9    -69.171642
-10   -71.982143
-11   -71.985507
-12   -74.451807
+
+|1|-77.160920|
+|2|-79.932584|
+|3|-83.307292|
+|4|-82.747423|
+|5|-79.308725|
+|6|-75.299320|
+|7|-72.281690|
+|8|-68.382979|
+|9|-69.171642|
+|10|-71.982143|
+|11|-71.985507|
+|12|-74.451807|
 
 #### Which month, on average, has the lowest atmospheric pressure? The highest? 
 
@@ -120,18 +121,19 @@ month
 Atmospheric pressure is, on average, lowest in the sixth month and highest in the ninth.
 
 month
-9     913.305970
-2     889.455056
-10    887.312500
-3     877.322917
-8     873.829787
-1     862.488506
-11    857.014493
-12    842.156627
-4     806.329897
-7     795.105634
-5     748.557047
-6     745.054422
+
+|9|913.305970|
+|2|889.455056|
+|10|887.312500|
+|3|877.322917|
+|8|873.829787|
+|1|862.488506|
+|11|857.014493|
+|12|842.156627|
+|4|806.329897|
+|7|795.105634|
+|5|748.557047|
+|6|745.054422|
 
 #### How many terrestrial days exist in a Martian year? A visual estimate within 25% was made
 
@@ -155,13 +157,13 @@ The minimum values per year are below.
 
 Looking for the date with the minimum temperature in 2014 :
 
-|id|terrestrial_date|sol|ls|month|min_temp|pressure|Year|
+||id|terrestrial_date|sol|ls|month|min_temp|pressure|Year|
 | ---| ----| -------            |----  |----| -----| --------- | --------| 	
 |452|464|2014-02-03|532|84|3|-88.0|872.0|2014|
 
 Looking for the date with the minimum temperature in 2015 :
 
-|id|terrestrial_date|sol|ls|month|min_temp|pressure|Year|
+||id|terrestrial_date|sol|ls|month|min_temp|pressure|Year|
 | ---| ----| -------            |----  |----| -----| --------- | --------| 	
 |1093|1119|2015-12-09|1188|79|3|-90.0|881.0|2015|
 
